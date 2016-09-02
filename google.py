@@ -1,4 +1,4 @@
-#google class to get information about stocks and options
+#Scraper to get stock price and option data from google finance
 
 import urllib.request           #script for URL request handling
 import urllib.parse             #script for URL handling
